@@ -4523,6 +4523,9 @@ break;
 default :
 Bot.runCommand("/33");
 break; 
-case "Ⓜ Главное меню" :
+case "⬅⬅ Назад" :
 Bot.runCommand("/start");
+break; 
+case "Ⓜ Главное меню" :
+Bot.runCommand("/start");    
 break; }
