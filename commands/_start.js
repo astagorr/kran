@@ -12,9 +12,5 @@ switch (user.username) {
 case null :
 Bot.runCommand("ban");
 break;
-case "Kaktus_tequila":
-case "Kaktus_tequilka":    
-Bot.runCommand("bann");
-break;
 default :
 Bot.runCommand("go"); }
